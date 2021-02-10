@@ -1,0 +1,80 @@
+
+
+.form-control{
+    background-color: transparent!important;
+    font-size: 15px;
+    align-items: left;
+    width: 100%!important;
+    word-break: break-all;
+    
+    
+}
+.form-control.pname{
+    width: 150px!important;
+}
+.form-control.code{
+    width: 50px!important;
+}
+.form-control.fd{
+    width: 70px!important;
+}
+.form-control.add{
+    width: 150px!important;
+    overflow: scroll;
+    text-align: left!important;
+}
+.add{
+    overflow: scroll;
+    text-align: left;
+}
+h1{
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.cd{
+    outline: none;
+    background-color: transparent!important;
+    border: none;
+}
+.form-control.price{
+    width: 110px!important;
+}
+
+
+
+.loading{
+    border: 1px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #48d1cc;
+    width: 120px;
+    height: 120px;
+    margin-top: 230px!important;
+    transition: 300ms linear;
+    -webkit-animation: spin 500ms linear 3;
+
+    animation: spin 700ms linear  3;
+}
+@-webkit-keyframes spin{
+    0%{
+        -webkit-transform: rotate(0deg) scale(1);
+         
+    }
+    100%{
+        -webkit-transform: rotate(360deg) scale(1.4);
+        
+    }
+}
+@keyframes spin{
+    0%{
+        transform: rotate(0deg) scale(0.5);
+        
+    }
+    100%{
+        transform: rotate(360deg) scale(1.5);
+        box-shadow: 10px 10px 10px -4px #48d1cc;
+        border-color: rgb(223, 223, 148);
+        
+        
+    }
+}

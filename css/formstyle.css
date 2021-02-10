@@ -1,0 +1,41 @@
+.bg-dark{
+    background-color: black!important;
+    opacity: 0.9;
+}
+.col{
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: space-around;
+}
+.label{
+background-color: rgb(99, 124, 207);
+border-radius: 5px;
+
+}
+.form-control-lg{
+font-size: 15px;
+}
+input.sb{
+border: 1px solid black;
+height: 50px!important;
+}
+
+.backlink{
+color: black;
+border: 1px solid black;
+width: 100%!important;
+height: 100%!important;
+align-items: center;
+text-decoration: none!important;
+background-color: rgb(240, 240, 240);
+
+}
+.backlink:hover{
+color: black;
+}
+.back{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}

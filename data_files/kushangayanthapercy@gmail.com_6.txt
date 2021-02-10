@@ -1,0 +1,31 @@
+Name:- Kushan Gayantha
+Email:- kushangayanthapercy@gmail.com
+Number:- 0712720033
+                
+Address:- 201/10 Colombo Road Kurunegala
+Placed Date:- 2020-10-31
+Fixing Date:- 2020-11-06
+
+
+Location:- Room1
+	Product Name:- Veetian Blind 25mm
+	Color Code:- 3gfg5
+	Width:- 3434.7
+	Height:- 435
+	Control:- Right
+	Fixing Details:- Aluminium    
+	Bracket Type:- Ceiling bracket
+	Fixing Type:- Wall
+
+
+Location:- Room test
+	Product Name:- Vertical Blind PVC 127mm
+	Color Code:- sdf
+	Width:- 34
+	Height:- 45
+	Control:- Not Enterd
+	Fixing Details:- Timber    
+	Bracket Type:- Wall bracket
+	Fixing Type:- Inside frame
+
+

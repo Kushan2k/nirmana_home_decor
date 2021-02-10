@@ -1,0 +1,18 @@
+Name:- Kushan Gayantha
+Email:- kushangayanthapercy@gmail.com
+Number:- 
+                
+Address:- 201/10 Colombo Road Kurunegala
+Placed Date:- 1604208694
+Fixing Date:- 2020-11-06
+
+
+Location:- Room test
+	Product Name:- Vertical Blind PVC 127mm
+	Color Code:- 34f
+	Width:- 34
+	Height:- 54
+	Control:- Double side
+	Addition Details:- Additional details
+
+

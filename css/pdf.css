@@ -1,0 +1,86 @@
+*{
+    color:   rgb(30, 30, 94);
+}
+.pdf-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding-bottom: 3px;
+    margin-bottom: 10px;
+}
+.container,.pdf-header{
+    border-bottom: 3px solid  rgb(111, 111, 230);
+}
+.logo{
+    width: 40%;
+}
+.extra{
+    height: 100px!important;
+}
+.inner-text{
+    font-weight: 300;
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    
+}
+.contacts>h6{
+    color: rgb(30, 30, 94);
+    text-align: right;
+}
+.contacts>.name{
+    font-weight: bold;
+}
+.customer-details{
+    display: flex;
+    justify-content: space-between;
+}
+.personal-details{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.personal-details>div{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    
+}
+.personal-details>div>p{
+    text-align: left;
+}
+.order-details{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 30%;
+}
+.order-details>div{
+    display: flex;
+    justify-content: space-between;
+}
+.order-table{
+    width: 100%!important;
+}
+td{
+    padding: 10px;
+    width: 20%!important;
+    text-align: center;
+}
+td.head{
+    text-align: left;
+}
+.print{
+    display: none;
+}
+
+@media only print {
+    .print{
+        display: block;
+    }
+    .donebtn{
+        display: none;
+    }
+}

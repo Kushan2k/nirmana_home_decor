@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+.bg-dark,.footerdiv{
+    background-color: black!important;
+    opacity: 0.9;
+}
+nav{
+    z-index: 100;
+}
+
+
+.footer-div{
+    background-color: rgb(32, 32, 36);
+    position: absolute;
+    bottom: 0;
+    
+}
+.footer-div>h3{
+    color: gray;
+}
+
+
+.logo-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 50px!important;
+}
+.logo-div>a{
+    text-align: center;
+    text-decoration: none;
+
+}
+.logo-div>a>p{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(87, 87, 187);
+}
+.logo-div>a:hover{
+    transform: scale(1.02);
+    text-decoration: underline;
+}
+
+/* nav bar*/
+
+.nav-link{
+    transition: 300ms linear;
+    
+  }
+  .nav-link:hover{
+    border-bottom: 3px solid grey;
+    background-color: rgb(114, 114, 114,0.1);
+    padding-left: 10px;
+    
+  }
+  @media (min-width:992px){
+    #navbarsExample05{
+      position: absolute;
+      right: 10px;
+    }
+    .nav-item{
+      margin-right: 20px;
+      border-bottom: none;
+    }
+    
+  }
+  @media (max-width:992px){
+    .nav-link:hover{
+        
+        border-right:50px solid grey;
+    }
+  }
+  @media (min-width:768px){
+      .nav-link:hover{
+        background-color: transparent;
+      }
+      .conatctus{
+          margin-right: 10px!important;
+      }
+  }
+
+  .dropdown-item{
+      transition: 300ms linear;
+  }
+  .navbar-toggler{
+    opacity: 0.5;
+    outline: none!important;
+    padding: 0;
+    transform: scale(1.2);
+    border: none;
+    margin-right: 10px;
+    transition: 300ms linear;
+  }
+  .navbar-toggler:hover{    
+    opacity: 1;
+    transform: scale(1.4);
+  }
+
+.dropdown-item:hover{
+    background-color: rgb(160, 160, 160);
+}
+
+.main-content{
+    position: relative;
+  }
+  .login-form{
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    z-index: 100;
+    border: 1px solid rgb(126, 126, 126);
+    border-top: 0.3px solid lightgray;
+    border-left: 0.3px solid lightgray;
+    box-shadow: 10px 10px 7px -8px grey;
+    transition: 450ms linear;
+    animation-name: pop ;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    max-width: 700px;
+    display: none;
+
+    
+
+
+
+}
+.none{
+  display: block;
+}
+@media (min-width:992px){
+  .login-form{
+    left: 100px;
+    top: 60px;
+    
+  }
+}
+@keyframes pop{
+    from{
+        transform: scale(0);
+        opacity: 0%;
+    }
+    to{
+        transform: scale(1);
+        opacity: 100%;
+    }
+}
+

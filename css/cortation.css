@@ -1,0 +1,11 @@
+.order-table{
+    width: 100%;
+}
+td{
+    padding: 10px;
+}
+.form-control.non-edit{
+    outline: none!important;
+    background-color: transparent!important;
+    border: none;
+}

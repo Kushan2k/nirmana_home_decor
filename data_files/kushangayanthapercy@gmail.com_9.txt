@@ -1,0 +1,31 @@
+Name:- Kushan
+Email:- kushangayanthapercy@gmail.com
+Number:- 
+                
+Address:- 201/10 Colombo Road Kurunegala
+Placed Date:- 2020-11-01
+Fixing Date:- 2020-11-06
+
+
+Location:- Bedroom
+	Product Name:- Vertical Blind PVC 127mm
+	Color Code:- 34
+	Width:- 234
+	Height:- 324
+	Control:- Double side
+	Fixing Details:- Aluminium    
+	Bracket Type:- Wall bracket
+	Fixing Type:- Inside frame
+
+
+Location:- Bedroom
+	Product Name:- Vertical Blind PVC 127mm
+	Color Code:- 34ed
+	Width:- 34
+	Height:- 45
+	Control:- Double side
+	Fixing Details:- Concrete    
+	Bracket Type:- Wall bracket
+	Fixing Type:- Inside frame
+
+

@@ -1,0 +1,20 @@
+Name:- Kushan pasindu
+Email:- kushangayanthapercy@gmail.com
+Number:- 456578342
+                
+Address:- 201/10 Colombo Road Kurunegala
+Placed Date:- 1604206009
+Fixing Date:- 2020-11-07
+
+
+Location:- Room test2
+	Product Name:- Vertical Blind Fabric 127mm
+	Color Code:- 34f
+	Width:- 434
+	Height:- 45
+	Control:- Double side
+	Fixing Details:- Aluminium    
+	Bracket Type:- Wall bracket
+	Fixing Type:- Inside frame
+
+

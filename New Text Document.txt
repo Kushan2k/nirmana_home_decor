@@ -1,0 +1,11 @@
+require_once __DIR__ . '/vendor/autoload.php';
+
+$mpdf = new \Mpdf\Mpdf();
+$mpdf->WriteHTML('<h1>Hello world!</h1>');
+$mpdf->Output();
+
+
+$stylesheet = file_get_contents('css/bootstrap-3.3.7.min.css');
+$pdf->WriteHTML($stylesheet, 1); // CSS Script goes here.
+$pdf->WriteHTML($html, 2); //HTML Content goes here.
+$pdf->Output();

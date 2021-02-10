@@ -1,0 +1,31 @@
+Name:- Sdgdsg
+Email:- sdgsd@gmail.com
+Number:- 34655644
+                
+Address:- 201/10 Colombo Road Kurunegala
+Placed Date:- 2020-10-31
+Fixing Date:- 2020-11-07
+
+
+Location:- Bedroom1
+	Product Name:- Local Outdoor Bamboo Blind
+	Color Code:- dsfxw4
+	Width:- 3453
+	Height:- 455
+	Control:- Left
+	Fixing Details:- Aluminium    
+	Bracket Type:- Ceiling bracket
+	Fixing Type:- Wall
+
+
+Location:- Room1
+	Product Name:- Local Outdoor Bamboo Blind
+	Color Code:- dsfxw4
+	Width:- 3453
+	Height:- 455
+	Control:- Left
+	Fixing Details:- Aluminium    
+	Bracket Type:- Ceiling bracket
+	Fixing Type:- Wall
+
+

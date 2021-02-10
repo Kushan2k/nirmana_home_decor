@@ -1,0 +1,43 @@
+.data-form{
+    height: 100%;
+    transition: 450ms linear;
+    animation-name: slideup;
+    animation-iteration-count: 1;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes slideup {
+    from{
+        transform: scale(1);
+        opacity: 100%;
+    }
+    to{
+        opacity: 0%;
+        transform: scale(0)  ;
+        display: none;
+        height:0px;
+    }
+    
+}
+
+.logo-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 50px!important;
+}
+.logo-div>a{
+    text-align: center;
+    text-decoration: none;
+    line-height: 16px;
+}
+.logo-div>a>p{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(87, 87, 187);
+}
+.logo-div>a:hover{
+    transform: scale(1.02);
+    text-decoration: underline;
+}
